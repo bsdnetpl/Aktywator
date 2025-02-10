@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35731.43 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aktywator", "Aktywator\Aktywator.csproj", "{8811CE84-C090-478E-85B8-F5C68B9E3A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8811CE84-C090-478E-85B8-F5C68B9E3A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8811CE84-C090-478E-85B8-F5C68B9E3A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8811CE84-C090-478E-85B8-F5C68B9E3A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8811CE84-C090-478E-85B8-F5C68B9E3A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1798DB-F007-4F54-8FD0-6ADB3BB45E3C}
+	EndGlobalSection
+EndGlobal
